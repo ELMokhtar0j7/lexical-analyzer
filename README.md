@@ -1,5 +1,6 @@
-**BY Bachir Bouadjera Mohamed Elmokhtar AND Chouaki Walid**
-**Under the supervision of Prof. Sihem Aissaoui**
+**BY `Bachir Bouadjera Mohamed Elmokhtar` AND `Chouaki Walid`**
+
+**Under the supervision of Prof. `Sihem Aissaoui`**
 
 Lexical tokenization is conversion of a text into meaningful lexical tokens belonging to categories defined by our program.
 This project is intended for learning and demonstration purposes, showing how a hand-written lexer works without external libraries.
